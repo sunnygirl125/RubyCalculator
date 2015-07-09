@@ -5,6 +5,6 @@
 
 # Project Status
 - [x] Planning
-- [ ] Coding
-- [ ] Testing
-- [ ] Presentation
+- [x] Coding
+- [x] Testing
+- [x] Presentation
