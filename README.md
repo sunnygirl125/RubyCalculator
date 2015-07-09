@@ -3,7 +3,7 @@
 - Sunnygirl125
 
 # Project Status
-- [ ] Planning
+- [x] Planning
 - [ ] Coding
 - [ ] Testing
 - [ ] Presentation
